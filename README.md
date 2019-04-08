@@ -1,1 +1,1 @@
-# FirstNonRepeatingLetter
+# FirstNonRepeatingCharInString
